@@ -4,6 +4,7 @@
   "main": "index.js",
   "description": "An extensible chat bot that can help you in a lot of tasks",
   "dependencies": {
+    "@google-cloud/datastore": "^0.6.1",
     "@slack/client": "^3.8.0",
     "bottleneck": "^1.13.1",
     "debug": "^2.6.0",
